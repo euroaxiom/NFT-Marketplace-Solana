@@ -1,24 +1,14 @@
-## A React Native application mockup that contains necessary folders, files and packages needed in every application.
+## A NFT Marketplce mobile application.
 
-### Folders:
+![Dashboard](https://user-images.githubusercontent.com/99186932/163384775-525b42a2-115f-45cf-8d6f-78009ef31e72.PNG)
+#### Marketplace screen where all the NFTs are displayed for auction with bid amount and end date
+<br/>
 
-**src**: contains all folders that need in application<br/>
-**screens**: folders that contain all screens<br/>
-**components**: app components<br/>
-**api**: contains apis' <br/>
-**constants**: app constants that are same and used throughout app<br/>
-**assets**: contains assets like images, fonts, icons etc.<br/>
-**data**: dummy data or repeated data<br/>
-**auth**: app context or storage<br/>
-**routes**: app navigators e.g: app or auth<br/>
+![Details2](https://user-images.githubusercontent.com/99186932/163384874-0810d98d-3221-45cf-bed9-5e41e56d1cc1.PNG)
+<br/>
+#### Screen where you can see NFT details like its price, people who have bid on it and their amount. You can also bid your own amount in this screen
 
-### Packages:
 
-react-navigation v6.0.8<br/>
-react-native-vector-icons v9.1.0<br/>
-react-navigation/stack v6.1.1<br/>
 
-#### Change App Name:
-[Link](https://stackoverflow.com/questions/34794679/change-app-name-in-react-native)
 
 
